@@ -28,7 +28,11 @@ Styling: CSS Modules.
 AI Service: Azure Custom Vision for image classification.
 
 Screenshots
+
+Upload Image via URL:
 ![image](https://github.com/user-attachments/assets/787491dc-51ab-45fe-ba9d-438ad37a1816)
+
+Upload Image via file upload:
 ![image](https://github.com/user-attachments/assets/5cf85b6f-9291-4ca4-8602-1f9fe0add240)
 
 License
