@@ -1,0 +1,73 @@
+.container {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .header {
+    background-color: #00529f;
+    color: white;
+    padding: 10px;
+  }
+  
+  .main {
+    margin: 20px auto;
+    max-width: 600px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .uploadSection {
+    margin-bottom: 20px;
+  }
+  
+  .uploadInput {
+    display: block;
+    margin: 10px auto;
+    font-size: 16px;
+  }
+  
+  .previewImage {
+    margin-top: 10px;
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+  }
+  
+  .predictButton {
+    background-color: #00529f;
+    color: white;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .predictButton:hover {
+    background-color: #004080;
+  }
+  
+  .result {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f1f1f1;
+  }
+  .urlSection {
+    margin: 20px 0;
+  }
+  
+  .urlInput {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
